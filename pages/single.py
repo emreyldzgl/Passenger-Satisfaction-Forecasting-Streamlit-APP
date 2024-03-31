@@ -77,7 +77,7 @@ st.markdown("<h1 class='title'> Miuul Airlines R&D </h1>", unsafe_allow_html=Tru
 st.markdown(
     """
     <style>
-    .st-f5 { 
+    .st-ec { 
         background: rgb(41,72,149,0.3);
     }
 

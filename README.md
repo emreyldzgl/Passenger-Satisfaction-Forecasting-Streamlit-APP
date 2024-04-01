@@ -1,6 +1,6 @@
 ![image](https://github.com/emreyldzgl/mlproject-st/blob/main/images/screen1.png) 
 
-<h2 align="center"> <b> ✈️ ✈️  About Passenger Satisfaction Forecasting Project with Miuul Airlines  ✈️ ✈️</b></h2>
+<h2 align="center"> <b>✈️  About Passenger Satisfaction Forecasting Project with Miuul Airlines  ✈️</b></h2>
 
 <p> <a> Welcome to our groundbreaking project aimed at predicting airline satisfaction! In today's rapidly evolving world, customer satisfaction stands as the cornerstone of successful businesses, and the aviation industry is no exception. Understanding and anticipating passengers' needs and expectations is paramount to enhancing their overall experience and fostering continued loyalty. </a></p>
 
@@ -55,11 +55,7 @@
 
 <p></p> <a> Implemented machine learning algorithms using scikit-learn. </a> 
 
-<p></p> <a> Utilized the 'io' library for handling input/output operations. </a> 
-
 <p></p> <a> Used Matplotlib for creating visualizations. </a> 
-
-<p></p> <a> Implemented image processing using the Pillow library. </a> 
 
 <p></p> <a> Used base64 for encoding and decoding binary image data. </a> 
 

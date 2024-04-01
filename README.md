@@ -136,3 +136,5 @@
 
 
 <h2>  📺Project Presentation:  </h2>
+
+https://github.com/emreyldzgl/mlproject-st/assets/151533766/d0b0e69a-622c-4b68-ad30-f5804489a04b

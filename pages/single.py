@@ -89,7 +89,7 @@ st.markdown(
 
 
 # Sayfa Düzenine Tabların Eklenmesi
-tab1, tab2, tab3, tab4 = st.tabs(["✈️ Basic Flight Information",
+taba ,tab1, tab2, tab3, tab4 = st.tabs([" ","✈️ Basic Flight Information",
                                                           "👨🏻‍✈️ Airborne Hospitality",
                                                           "👷🏻‍♂️ Operational Service",
                                                           "🧑🏻‍💻 Suitability"])

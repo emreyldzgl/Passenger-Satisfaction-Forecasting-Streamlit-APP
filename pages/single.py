@@ -89,10 +89,19 @@ st.markdown(
 
 
 # Sayfa Düzenine Tabların Eklenmesi
-taba, tabb, tabc, tabd, tab1, tab2, tab3, tab4 = st.tabs(["____", "____", "____", "____", "✈️ Basic Flight Information",
+tab1, tab2, tab3, tab4 = st.tabs(["✈️ Basic Flight Information",
                                                           "👨🏻‍✈️ Airborne Hospitality",
                                                           "👷🏻‍♂️ Operational Service",
                                                           "🧑🏻‍💻 Suitability"])
+
+st.markdown("""
+    <style>
+    div[role="tablist"] {
+        justify-content: center;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
 
 # Ana Ekran Giriş Sayfası
 taba.image("./images/Fearless - 2.png")

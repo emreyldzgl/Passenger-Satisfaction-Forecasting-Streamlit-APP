@@ -69,13 +69,15 @@ st.markdown("""
 st.markdown("<h1 class='title'> Miuul Airlines R&D </h1>", unsafe_allow_html=True)
 
 # Sayfa Düzenine Tabların Eklenmesi
-(taba, tabb, tabc, tabd, tabe, tabf, tabg,
- tabh, tabj, tabk, tabl, tabm, tabn, tab1, tab2) = st.tabs(["____", "____", "____", "____",
-                                                                  "____", "____", "____", "____",
-                                                                  "____", "____", "____", "____",
-                                                                  "____",
-                                                                  "🗃️ Data Upload & Download",
-                                                                  "‍📊️ Data Analyze"])
+(tab1, tab2) = st.tabs("🗃️ Data Upload & Download","‍📊️ Data Analyze"])
+
+st.markdown("""
+    <style>
+    div[role="tablist"] {
+        justify-content: center;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
 # Ana Ekran Giriş Sayfası
 taba.image("./images/Fearless - 1.png")
